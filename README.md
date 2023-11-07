@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Humungus-Fungus
-- 👀 I’m interested in Web App development, AI, Game Development and contributing to open-source projects
-- 🌱 I’m currently learning game development on Unity and web development with React
-- 📫 How to reach me: drop an email at devand@britishschoolmuscat.com or devarshdinesh@gmail.com
+- 👋 Hi, I’m @Humungus-Fungus.
+- 👀 I’m interested in Web App development, AI and Game Development.
+- 🌱 I’m currently learning game development on Godot, Bevy and Raylib.
+- 📫 How to reach me: drop an email at funghum@proton.me
 
 <!---
 Humungus-Fungus/Humungus-Fungus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
